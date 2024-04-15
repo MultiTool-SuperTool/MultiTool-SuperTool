@@ -4,4 +4,6 @@ Hypl is another co-founder, languages: python, java;
 Сreatortive - python, tester, editor, animation creator, slave oh...
 in general... we specialize in python, we will be glad to have a new slave, oh, a participant, a participant
 Mega project - 11/20/202_
-https://img.shields.io/badge/%3E%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D1%82%D1%8C%D1%81%D1%8F%3C
+we do it under the creative commons license
+https://img.shields.io/badge/:badgeContent?style=plastic&logo=github&logoColor=red&label=DON'T%20CLICK&labelColor=yellow&color=orange&cacheSeconds=10000000000000000000000000000&link=https%3A%2F%2Ft.me%2FPythonTestsHi
+
